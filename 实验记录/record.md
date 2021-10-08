@@ -23,7 +23,7 @@ self.conv3 = paddle.nn.Conv2D(in_channels=24, out_channels=64, kernel_size=(3,3)
 
 发现loss高于原模型，同时accuracy也比原模型要低
 
-中间很好奇对性能的要求,发现占用了50%的CPU资源以及6GB的内存
+中间很好奇对性能的要求：
 
 ![b885a39bc4eea0396e0029196d7ef7f4.png](../_resources/4682eb3aeae948d2aea71f04866ecbfd.png)
 ![24685891d18312c3669be3568930d5b3.png](../_resources/bd0ae5d95579481eb9441a2fa5260c46.png)
