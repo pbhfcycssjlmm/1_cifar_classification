@@ -1,6 +1,4 @@
 本次任务选用paddlepaddle完成cifar10图像分类。
-
-本次任务选用paddlepaddle完成cifar10图像分类。
 1. 安装paddlepaddle：https://www.paddlepaddle.org.cn/install/quick?docurl=/documentation/docs/zh/develop/install/pip/windows-pip.html#cpu
 2. 使用官网提供的baseline跑一下实验结果
 ![dc2cadbd45aefcb030b797db5775a70e.png](../_resources/ef0ec73668f546039db5272515ca3d08.png)![0f8de64af4843cb4239e2095d8bf6826.png](../_resources/373d94b1e70747d886f84687050f5ae5.png)
