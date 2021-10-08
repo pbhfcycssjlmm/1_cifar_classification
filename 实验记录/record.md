@@ -4,6 +4,7 @@
 
 ![dc2cadbd45aefcb030b797db5775a70e.png](../_resources/ef0ec73668f546039db5272515ca3d08.png)
 ![0f8de64af4843cb4239e2095d8bf6826.png](../_resources/373d94b1e70747d886f84687050f5ae5.png)
+
 可以看到loss在前几个epoch快速下降，accuracy不断提升并最终稳定在0.70附近。
 3. 观察修改输入输出通道对模型效果的影响
 输入输出通道前后对比：
